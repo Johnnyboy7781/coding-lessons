@@ -21,11 +21,21 @@
     - Deployment/DevOps
 - Cover common dev tech
     - Git
+    - APIs
     - Stretch goals
         - Docker
         - Kubectl
 
+## General Roadmap
 
+1. Front-end
+    - Basic deployment
+2. Front-end project
+3. Back-end
+4. Deployment/DevOps
+5. Full-stack project
+6. Database
+7. Final Project
 
 ## Basic Terminal Navigation
 
