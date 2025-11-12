@@ -22,9 +22,7 @@
 - Cover common dev tech
     - Git
     - APIs
-    - Stretch goals
-        - Docker
-        - Kubectl
+    - And more!
 
 ## General Roadmap
 
