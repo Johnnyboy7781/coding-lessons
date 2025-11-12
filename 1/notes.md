@@ -39,4 +39,33 @@
 
 ## Basic Terminal Navigation
 
+- `echo`
+
+- `pwd`
+
+- `ls`
+
+- `cd`
+
+- `cls`
+
+- `mkdir`
+
+- `touch`
+
+- `mv`
+
+- `cp`
+
+- `rm`
+
+- `help`
+
+- Unix vs DOS
+
 ## JS Dev Environment Setup
+
+- Text editor (VSCode)
+
+- NodeJS
+
